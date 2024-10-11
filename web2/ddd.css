@@ -1,0 +1,162 @@
+body{
+    background-color:aqua;
+}
+html, body{
+    height: 100%;
+}
+p{
+    font-weight: 600;
+    font-size: x-large;
+    color: #000;
+    text-align: center;
+}
+img{
+    margin-top: 90px;
+    
+}
+header{
+    display: block;
+    bottom: 5px;
+   float: left;
+    justify-content: center;
+    margin-top: 0;
+}
+#pic1{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+#pic2{
+    margin-left: 100px;
+}
+.destnation page{
+    float: right;
+}
+
+
+#home{
+    margin-top: 10px;
+    margin: left 600px; ;
+}
+
+
+footer{
+     text-align: right;
+     color: #fff;
+     margin-bottom: 90px;
+    
+}
+section{
+    text-align: center;
+}
+
+section img{
+    display: inline;
+    max-width: 200px;
+    margin: auto;
+   
+}
+nav{
+    
+   float:left;
+    padding: 10px;
+   margin-top: 40px;
+
+}
+button{
+    background-color: aqua;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+nav ul {
+    list-style-type: style none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    
+   
+}
+
+
+nav li{
+    padding: 10px;
+    display:block;
+    font-size: larger;
+    transition: 0.5s;
+    
+
+    
+}
+nav a{
+    color: aqua;
+    text-decoration: none;
+}
+
+header{
+    color: #fff ;
+}
+
+
+
+    #homepage {
+        top: 20px;
+        background-color:maroon;
+        color:maroon;
+      }
+      #homepage :hover{
+        color: black;
+      }
+      
+      #destination{
+        top: 80px;
+        background-color:red;
+        color:red;
+
+      }
+      
+      #about {
+        top: 140px;
+        background-color:darkred;
+        color:darkred;
+
+      }
+
+      #contact {
+        top: 200px;
+        background-color:deeppink;
+        color:deeppink;
+        
+      }
+      #mySidenav a {
+        position: absolute;
+        left: -60px;
+        transition: 1s;
+        padding: 20px;
+        width: 105px;
+        text-decoration: none;
+        font-size: 20px;
+        box-shadow: rgb(from color r g b);
+        border-radius:5px 5px 5px 5px;
+        margin-top: 40px;
+
+      }
+      
+      #mySidenav a:hover {
+        left: 0;
+        color: #000;
+        background-color: #fff;
+      }
+      h1{
+          text-align: center;
+          font-size: 40px;
+          margin-top: 0%;
+          font-family: Cooper Black; color:black;
+           background-color:yellowgreen;
+           border: solid;
+           padding: 0px;
+           border-radius: 3px;
+           
+           
+           
+      }
